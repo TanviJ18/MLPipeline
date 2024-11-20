@@ -63,5 +63,9 @@ This pipeline is highly flexible and offers several key benefits:
 ### **Results**
 Once the pipeline is executed on the Iris dataset, the regression model will return results based on the metrics mentioned above. These results give valuable insights into how well the model is predicting continuous values like sepal and petal dimensions.
 
+**The generated pipeline:**
+![Pipeline](https://github.com/user-attachments/assets/35602f68-bc1b-40fc-958b-218b0dd05a06)
+
+
 ### **Conclusion**
 This repository offers a flexible and dynamic predictive modeling pipeline, adaptable for both **regression** and **classification** tasks. By modifying the **data.json** configuration file, which is correctly formatted as per JSON standards, one can easily apply this pipeline to various datasets or models.
