@@ -8,8 +8,8 @@ The **best_model.pkl** file contains a **RandomForestRegressor** model, which ac
 - **Dataset Used**: Iris dataset
 - **Prediction Type**: Regression (Predicting continuous values)
 - **Best Hyperparameters**:
-  - `model__max_depth`: 22
-  - `model__n_estimators`: 12
+  - `max_depth`: 22
+  - `n_estimators`: 12
 
 ### Model Evaluation
 
