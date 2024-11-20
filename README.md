@@ -64,6 +64,7 @@ This pipeline is highly flexible and offers several key benefits:
 Once the pipeline is executed on the Iris dataset, the regression model will return results based on the metrics mentioned above. These results give valuable insights into how well the model is predicting continuous values like sepal and petal dimensions.
 
 **The generated pipeline:**
+
 ![Pipeline](https://github.com/user-attachments/assets/35602f68-bc1b-40fc-958b-218b0dd05a06)
 
 
