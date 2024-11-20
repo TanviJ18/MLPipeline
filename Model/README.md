@@ -1,6 +1,6 @@
 ## Overview
 
-The **best_model.pkl** file contains a **RDecisionTreeRegressor** model, which achieved the best performance in predicting continuous values (such as sepal and petal dimensions) from the Iris dataset. This model is based on the optimized hyperparameters and has shown superior accuracy in regression tasks compared to other models tested.
+The **best_model.pkl** file contains a **DecisionTreeRegressor** model, which achieved the best performance in predicting continuous values (such as sepal and petal dimensions) from the Iris dataset. This model is based on the optimized hyperparameters and has shown superior accuracy in regression tasks compared to other models tested.
 
 ## Model Details
 - **Model Type**: DecisionTreeRegressor
